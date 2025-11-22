@@ -21,6 +21,7 @@ I utilize a modern stack designed for scalability and performance, alongside pow
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 **Backend & Cloud**
 
@@ -44,5 +45,5 @@ I am always open to discussing new projects, architecture consulting, or full-ti
 
 ---
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Ahmad's Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=AhmadQA-art&show_icons=true&theme=radical" alt="Ahmad's Stats" />
 </p>
