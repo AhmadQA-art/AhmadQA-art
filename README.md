@@ -44,6 +44,6 @@ I am always open to discussing new projects, architecture consulting, or full-ti
 - 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/ahmad-m-21bb5a175/)
 
 ---
-<p align="left">
+<!-- <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=AhmadQA-art&show_icons=true&theme=radical" alt="Ahmad's Stats" />
-</p>
+</p> -->
